@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">النظام الشمسي</string>
+    <string name="welcome_to">أهلا بك في</string>
+    <string name="description">في تطبيق النظام الشمسي يمكنك اختبار نفسك في مجموعة من الأسئلة المتعلقة بنظامنا الشمسي</string>
+    <string name="language_english_arabic">اللغات: الإنجليزية، العربية</string>
+    <string name="time_limit_02_00">"الوقت: 02:00 "</string>
+    <string name="question_1_of_4">السؤال 1 من 4</string>
+    <string name="question_1">كم عدد أقمار كوكب المريخ</string>
+    <string name="question_2_of_4">"السؤال 2 من 4 "</string>
+    <string name="question_2">ما هو أصغر كوكب من هذة الكواكب؟</string>
+    <string name="earth">الأرض</string>
+    <string name="jupiter">المشتري</string>
+    <string name="mercury">عطارد</string>
+    <string name="uranus">أورانس</string>
+    <string name="question_3_of_4">السؤال 3 من 4</string>
+    <string name="question_3">ما هو الكوكب الأحمر؟</string>
+    <string name="mars">المريخ</string>
+    <string name="question_4_of_4">"السؤال 4 من 4 "</string>
+    <string name="questions_4">الأسئلة: 4</string>
+    <string name="question_4">مما تتكون الشمس؟</string>
+    <string name="hydrogen_gas">غاز الهيدروجين</string>
+    <string name="water">الماء</string>
+    <string name="dust">الغبار</string>
+    <string name="helium_gas">غاز الهيليوم</string>
+    <string name="submit">إرسال</string>
+</resources>
